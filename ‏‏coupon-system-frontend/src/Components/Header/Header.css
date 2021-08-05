@@ -1,0 +1,11 @@
+.header {
+    padding: 10px;
+}
+
+.brand {
+    font-size: 35px;
+    color: #f6f6f6;
+    font-family: 'Abril Fatface', 'cursive';
+    padding-right: 10px;
+    padding-left: 10px;
+}
